@@ -9,4 +9,4 @@ In this project, we leverage data science techniques to analyze banking data and
 In the end of the project the output file [test_loan_results.csv](https://github.com/Debabrata-palit/Knowledgehut_Hackathon/blob/main/test_loan_results.csv) has been extracted where we can see which Loan is paid and which one is defaulted from the test loan dataset.
 
 # Explanation Video
-https://drive.google.com/file/d/1OpUB9xvXtrcSAJT0t1B6CVWEiLrWrwhh/view?usp=drive_link
+[Click here](https://drive.google.com/file/d/1OpUB9xvXtrcSAJT0t1B6CVWEiLrWrwhh/view?usp=drive_link) to see the video.
